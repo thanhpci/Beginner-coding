@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1617167596 source:d:\codeblocks\testsdl\main.cpp
+	<iostream>
+	<SDL.h>
+	"SDL_utils.h"
+
+1617017808 d:\codeblocks\testsdl\sdl_utils.h
+	<iostream>
+	<SDL.h>
+
+1617016990 source:d:\codeblocks\testsdl\sdl_utils.cpp
+	<iostream>
+	"SDL_utils.h"
+

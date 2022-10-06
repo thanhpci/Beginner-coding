@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1617095314 source:d:\codeblocks\demo_tach_file\foo.cpp
+	<iostream>
+	"foo.h"
+
+1617095136 d:\codeblocks\demo_tach_file\foo.h
+	"bar.h"
+
+1617095322 source:d:\codeblocks\demo_tach_file\main.cpp
+	<iostream>
+	"foo.h"
+	"bar.h"
+
+1617094883 d:\codeblocks\demo_tach_file\bar.h
+
+1617093922 source:d:\codeblocks\demo_tach_file\bar.cpp
+	<iostream>
+	"bar.h"
+

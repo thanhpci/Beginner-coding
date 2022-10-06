@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1617103759 source:d:\codeblocks\projectgamesdl\sdl_utils.cpp
+	<iostream>
+	"SDL_utils.h"
+
+1617103759 d:\codeblocks\projectgamesdl\sdl_utils.h
+	<iostream>
+	<SDL.h>
+
